@@ -131,8 +131,8 @@ Love the game? Improve it by:
 Feel free to fork, modify, and submit pull requests!
 
 ## License
-
 This project is open-source and free to use for educational or entertainment purposes.
+
 ---
 
 *Last Updated: September 2025*
